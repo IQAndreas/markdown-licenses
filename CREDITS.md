@@ -15,6 +15,12 @@ Original license can be found at http://www.gnu.org/licenses/lgpl.txt
 
 Converted to Markdown by [Andreas Renberg](http://www.IQAndreas.com/)
 
+#### MIT
+
+Original license can be found at http://opensource.org/licenses/MIT
+
+Converted to Markdown by [Andreas Renberg](http://www.IQAndreas.com/)
+
 
 
 
