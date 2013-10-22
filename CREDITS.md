@@ -21,7 +21,10 @@ Original license can be found at <http://opensource.org/licenses/MIT>
 
 Converted to Markdown by [Andreas Renberg](http://www.IQAndreas.com/)
 
+### Apache v2.0
 
+Original license can be found at <http://www.apache.org/licenses/LICENSE-2.0.html>
 
+Converted to Markdown by [Andreas Renberg](http://www.IQAndreas.com/)
 
 
