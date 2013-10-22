@@ -1,4 +1,4 @@
-GNU LESSER GENERAL PUBLIC LICENSE
+GNU Lesser General Public License
 =================================
 
 Version 3, 29 June 2007
