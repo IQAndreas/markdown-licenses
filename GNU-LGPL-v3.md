@@ -55,12 +55,12 @@ that uses the facility (other than as an argument passed when the
 facility is invoked), then you may convey a copy of the modified
 version:
 
-a) under this License, provided that you make a good faith effort to
+* a) under this License, provided that you make a good faith effort to
 ensure that, in the event an Application does not supply the
 function or data, the facility still operates, and performs
 whatever part of its purpose remains meaningful, or
 
-b) under the GNU GPL, with none of the additional permissions of
+* b) under the GNU GPL, with none of the additional permissions of
 this License applicable to that copy.
 
 ### 3. Object Code Incorporating Material from Library Header Files.
