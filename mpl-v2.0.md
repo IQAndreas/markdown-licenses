@@ -11,7 +11,7 @@ Mozilla Public License Version 2.0
     means the combination of the Contributions of others (if any) used
     by a Contributor and that particular Contributor's Contribution.
 
-**1.3. &ldquo;Contribution&rdquo;**
+**1.3. &ldquo;Contribution&rdquo;**  
     means Covered Software of a particular Contributor.
 
 **1.4. &ldquo;Covered Software&rdquo;**  
@@ -23,11 +23,11 @@ Mozilla Public License Version 2.0
 **1.5. &ldquo;Incompatible With Secondary Licenses&rdquo;**  
     means
 
-    * **(a)** that the initial Contributor has attached the notice described
-        in Exhibit B to the Covered Software; or
-    * **(b)** that the Covered Software was made available under the terms of
-        version 1.1 or earlier of the License, but not also under the
-        terms of a Secondary License.
+* **(a)** that the initial Contributor has attached the notice described
+    in Exhibit B to the Covered Software; or
+* **(b)** that the Covered Software was made available under the terms of
+    version 1.1 or earlier of the License, but not also under the
+    terms of a Secondary License.
 
 **1.6. &ldquo;Executable Form&rdquo;**  
     means any form of the work other than Source Code Form.
@@ -47,13 +47,13 @@ Mozilla Public License Version 2.0
 **1.10. &ldquo;Modifications&rdquo;**  
     means any of the following:
 
-    * **(a)** any file in Source Code Form that results from an addition to,
-        deletion from, or modification of the contents of Covered
-        Software; or
-    * **(b)** any new file in Source Code Form that contains any Covered
-        Software.
+* **(a)** any file in Source Code Form that results from an addition to,
+    deletion from, or modification of the contents of Covered
+    Software; or
+* **(b)** any new file in Source Code Form that contains any Covered
+    Software.
 
-**1.11. &ldquo;Patent Claims&rdquo; of a Contributor**
+**1.11. &ldquo;Patent Claims&rdquo; of a Contributor**  
     means any patent claim(s), including without limitation, method,
     process, and apparatus claims, in any patent Licensable by such
     Contributor that would be infringed, but for the grant of the
@@ -61,16 +61,16 @@ Mozilla Public License Version 2.0
     made, import, or transfer of either its Contributions or its
     Contributor Version.
 
-**1.12. &ldquo;Secondary License&rdquo;**
+**1.12. &ldquo;Secondary License&rdquo;**  
     means either the GNU General Public License, Version 2.0, the GNU
     Lesser General Public License, Version 2.1, the GNU Affero General
     Public License, Version 3.0, or any later versions of those
     licenses.
 
-**1.13. &ldquo;Source Code Form&rdquo;**
+**1.13. &ldquo;Source Code Form&rdquo;**  
     means the form of the work preferred for making modifications.
 
-**1.14. &ldquo;You&rdquo; (or &ldquo;Your&rdquo;)**
+**1.14. &ldquo;You&rdquo; (or &ldquo;Your&rdquo;)**  
     means an individual or a legal entity exercising rights under this
     License. For legal entities, &ldquo;You&rdquo; includes any entity that
     controls, is controlled by, or is under common control with You. For
