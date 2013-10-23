@@ -8,6 +8,8 @@
  * **The Artistic License v2.0**  &lt;<http://www.perlfoundation.org/attachment/legal/artistic-2_0.txt>&gt;
  * **Eclipse Public License (EPL) v1.0**  &lt;<http://www.eclipse.org/org/documents/epl-v10.php>&gt;
  * **Mozilla Public License (MPL) v2.0**  &lt;<http://www.mozilla.org/MPL/2.0/index.txt>&gt;
+ * **Modified BSD License (BSD 3-clause)**  &lt;<http://opensource.org/licenses/BSD-3-Clause>&gt;
+ * **Simplified BSD License (BSD 2-clause)**  &lt;<http://opensource.org/licenses/BSD-2-Clause>&gt;
 
 #### GNU Licenses 
 
