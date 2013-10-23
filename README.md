@@ -11,7 +11,7 @@ Because it's pretty! But most importantly, it's easier to read; after all, licen
 
 Compare these two files:
  - [GNU GPL v3 - Original plaintext version](http://www.gnu.org/licenses/gpl-3.0.txt)
- - [GNU GPL v3 - Markdown formatted version](GNU-GPL-v3.md)
+ - [GNU GPL v3 - Markdown formatted version](gnu-gpl-v3.md)
 
 ### Isn't editing the license a violation of the license?
 
