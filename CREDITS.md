@@ -3,10 +3,10 @@
 
 Original licenses can be found at:
  
- * **GNU General Public License (GPL) v3**  &lt;<http://www.gnu.org/licenses/gpl-3.0.txt>&gt;
- * **GNU Lesser General Public License (LGPL) v3**  &lt;<http://www.gnu.org/licenses/lgpl.txt>&gt;
- * **GNU Affero General Public License (AGPL) v3**  &lt;<http://www.gnu.org/licenses/agpl-3.0.txt>&gt;
- * **GNU Free Documentation License (FDL) v1.3**  &lt;<http://www.gnu.org/licenses/fdl.txt>&gt;
+ * **GNU General Public License (GPL) v3.0**  &lt;<http://www.gnu.org/licenses/gpl-3.0.txt>&gt;
+ * **GNU Lesser General Public License (LGPL) v3.0**  &lt;<http://www.gnu.org/licenses/lgpl-3.0.txt>&gt;
+ * **GNU Affero General Public License (AGPL) v3.0**  &lt;<http://www.gnu.org/licenses/agpl-3.0.txt>&gt;
+ * **GNU Free Documentation License (FDL) v1.3**  &lt;<http://www.gnu.org/licenses/fdl-1.3.txt>&gt;
  * **The MIT License (MIT)**  &lt;<http://opensource.org/licenses/MIT>&gt;
  * **Apache v2.0**  &lt;<http://www.apache.org/licenses/LICENSE-2.0.html>&gt;
 
