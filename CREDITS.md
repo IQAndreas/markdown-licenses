@@ -1,30 +1,17 @@
 
-### GNU General Public License (GPL) v3
+## Sources
 
-Original license can be found at <http://www.gnu.org/licenses/gpl-3.0.txt>
+Original licenses can be found at:
+ 
+ * **GNU General Public License (GPL) v3** - <http://www.gnu.org/licenses/gpl-3.0.txt>
+ * **GNU Lesser General Public License (LGPL) v3** - <http://www.gnu.org/licenses/lgpl.txt>
+ * **The MIT License (MIT)** - <http://opensource.org/licenses/MIT>
+ * **Apache v2.0** - <http://www.apache.org/licenses/LICENSE-2.0.html>
 
-Converted to Markdown by [Jonathan Robson](https://github.com/jnrbsn)
- - [GitHub: jnrbsn/GPL.md](https://gist.github.com/jnrbsn/708961)
+## Contributors
 
-Minor fixes by:
- - [J2897](https://github.com/J2897)
-
-### GNU Lesser General Public License (LGPL) v3
-
-Original license can be found at <http://www.gnu.org/licenses/lgpl.txt>
-
-Converted to Markdown by [Andreas Renberg](http://www.IQAndreas.com/)
-
-### The MIT License (MIT)
-
-Original license can be found at <http://opensource.org/licenses/MIT>
-
-Converted to Markdown by [Andreas Renberg](http://www.IQAndreas.com/)
-
-### Apache v2.0
-
-Original license can be found at <http://www.apache.org/licenses/LICENSE-2.0.html>
-
-Converted to Markdown by [Andreas Renberg](http://www.IQAndreas.com/)
+* [Andreas Renberg (IQAndreas)](https://github.com/IQAndreas)
+* [Jonathan Robson](https://github.com/jnrbsn) - Converted GPLv3 to Markdown: [GitHub: jnrbsn/GPL.md](https://gist.github.com/jnrbsn/708961)
+* [J2897](https://github.com/J2897) - Minor fixes to GPLv3 formatting: [GitHub: J2897/TOR_Updater/LICENSE.md](https://github.com/J2897/TOR_Updater/blob/master/LICENSE.md)
 
 
