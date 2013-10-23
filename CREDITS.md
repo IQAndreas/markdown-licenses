@@ -6,6 +6,7 @@
  * **The MIT License (MIT)**  &lt;<http://opensource.org/licenses/MIT>&gt;
  * **Apache License v2.0**  &lt;<http://www.apache.org/licenses/LICENSE-2.0.html>&gt;
  * **The Artistic License v2.0**  &lt;<http://www.apache.org/licenses/LICENSE-2.0.html>&gt;
+ * **Eclipse Public License v1.0**  &lt;<http://www.eclipse.org/org/documents/epl-v10.php>&gt;
 
 #### GNU Licenses 
 
