@@ -12,6 +12,7 @@ Original licenses can be found at:
  * **GNU Free Documentation License (FDL) v1.3**  &lt;<http://www.gnu.org/licenses/fdl-1.3.txt>&gt;
  * **The MIT License (MIT)**  &lt;<http://opensource.org/licenses/MIT>&gt;
  * **Apache v2.0**  &lt;<http://www.apache.org/licenses/LICENSE-2.0.html>&gt;
+ * **The Artistic License v2.0**  &lt;<http://www.apache.org/licenses/LICENSE-2.0.html>&gt;
 
 ## Contributors
 
