@@ -5,6 +5,7 @@ Original licenses can be found at:
  
  * **GNU General Public License (GPL) v3.0**  &lt;<http://www.gnu.org/licenses/gpl-3.0.txt>&gt;
  * **GNU General Public License (GPL) v2.0**  &lt;<http://www.gnu.org/licenses/gpl-2.0.txt>&gt;
+ * **GNU General Public License (GPL) v1.0**  &lt;<http://www.gnu.org/licenses/gpl-1.0.txt>&gt;
  * **GNU Lesser General Public License (LGPL) v3.0**  &lt;<http://www.gnu.org/licenses/lgpl-3.0.txt>&gt;
  * **GNU Lesser General Public License (LGPL) v2.1**  &lt;<http://www.gnu.org/licenses/lgpl-2.1.txt>&gt;
  * **GNU Affero General Public License (AGPL) v3.0**  &lt;<http://www.gnu.org/licenses/agpl-3.0.txt>&gt;
