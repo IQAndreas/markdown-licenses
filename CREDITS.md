@@ -5,6 +5,7 @@ Original licenses can be found at:
  
  * **GNU General Public License (GPL) v3** - <http://www.gnu.org/licenses/gpl-3.0.txt>
  * **GNU Lesser General Public License (LGPL) v3** - <http://www.gnu.org/licenses/lgpl.txt>
+ * **GNU Affero General Public License (AGPL) v3** - <http://www.gnu.org/licenses/agpl-3.0.txt>
  * **The MIT License (MIT)** - <http://opensource.org/licenses/MIT>
  * **Apache v2.0** - <http://www.apache.org/licenses/LICENSE-2.0.html>
 
