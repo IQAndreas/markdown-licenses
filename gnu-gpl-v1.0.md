@@ -3,7 +3,7 @@ GNU General Public License
 
 Version 1, February 1989
 
-Copyright &copy; 1989 Free Software Foundation, Inc.
+Copyright © 1989 Free Software Foundation, Inc.
 51 Franklin St, Fifth Floor  Boston, MA 02110-1301  USA
 
 Everyone is permitted to copy and distribute verbatim copies
@@ -55,10 +55,10 @@ modification follow.
 **0.** This License Agreement applies to any program or other work which
 contains a notice placed by the copyright holder saying it may be
 distributed under the terms of this General Public License.  The
-&ldquo;Program&rdquo;, below, refers to any such program or work, and a &ldquo;work based
-on the Program&rdquo; means either the Program or any work containing the
+“Program”, below, refers to any such program or work, and a “work based
+on the Program” means either the Program or any work containing the
 Program or a portion of it, either verbatim or with modifications.  Each
-licensee is addressed as &ldquo;you&rdquo;.
+licensee is addressed as “you”.
 
 **1.** You may copy and distribute verbatim copies of the Program's source
 code as you receive it, in any medium, provided that you conspicuously and
@@ -147,8 +147,8 @@ be similar in spirit to the present version, but may differ in detail to
 address new problems or concerns.
 
 Each version is given a distinguishing version number.  If the Program
-specifies a version number of the license which applies to it and &ldquo;any
-later version&rdquo;, you have the option of following the terms and conditions
+specifies a version number of the license which applies to it and “any
+later version”, you have the option of following the terms and conditions
 either of that version or of any later version published by the Free
 Software Foundation.  If the Program does not specify a version number of
 the license, you may choose any version ever published by the Free Software
@@ -167,7 +167,7 @@ of promoting the sharing and reuse of software generally.
 **9.** BECAUSE THE PROGRAM IS LICENSED FREE OF CHARGE, THERE IS NO WARRANTY
 FOR THE PROGRAM, TO THE EXTENT PERMITTED BY APPLICABLE LAW.  EXCEPT WHEN
 OTHERWISE STATED IN WRITING THE COPYRIGHT HOLDERS AND/OR OTHER PARTIES
-PROVIDE THE PROGRAM &ldquo;AS IS&rdquo; WITHOUT WARRANTY OF ANY KIND, EITHER EXPRESSED
+PROVIDE THE PROGRAM “AS IS” WITHOUT WARRANTY OF ANY KIND, EITHER EXPRESSED
 OR IMPLIED, INCLUDING, BUT NOT LIMITED TO, THE IMPLIED WARRANTIES OF
 MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE.  THE ENTIRE RISK AS
 TO THE QUALITY AND PERFORMANCE OF THE PROGRAM IS WITH YOU.  SHOULD THE
@@ -196,7 +196,7 @@ terms.
 To do so, attach the following notices to the program.  It is safest to
 attach them to the start of each source file to most effectively convey
 the exclusion of warranty; and each file should have at least the
-&ldquo;copyright&rdquo; line and a pointer to where the full notice is found.
+“copyright” line and a pointer to where the full notice is found.
 
     <one line to give the program's name and a brief idea of what it does.>
     Copyright (C) 19yy  <name of author>
@@ -232,7 +232,7 @@ commands you use may be called something other than `show w` and `show c`;
 they could even be mouse-clicks or menu items--whatever suits your program.
 
 You should also get your employer (if you work as a programmer) or your
-school, if any, to sign a &ldquo;copyright disclaimer&rdquo; for the program, if
+school, if any, to sign a “copyright disclaimer” for the program, if
 necessary.  Here a sample; alter the names:
 
     Yoyodyne, Inc., hereby disclaims all copyright interest in the

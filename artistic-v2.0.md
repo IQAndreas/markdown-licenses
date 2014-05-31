@@ -1,7 +1,7 @@
 The Artistic License 2.0
 ========================
 
-Copyright &copy; 2000-2006, The Perl Foundation.
+Copyright © 2000-2006, The Perl Foundation.
 
 Everyone is permitted to copy and distribute verbatim copies
 of this license document, but changing it is not allowed.
@@ -22,45 +22,45 @@ a different licensing arrangement.
 
 ### Definitions
 
-&ldquo;Copyright Holder&rdquo; means the individual(s) or organization(s)
+“Copyright Holder” means the individual(s) or organization(s)
 named in the copyright notice for the entire Package.
 
-&ldquo;Contributor&rdquo; means any party that has contributed code or other
+“Contributor” means any party that has contributed code or other
 material to the Package, in accordance with the Copyright Holder's
 procedures.
 
-&ldquo;You&rdquo; and &ldquo;your&rdquo; means any person who would like to copy,
+“You” and “your” means any person who would like to copy,
 distribute, or modify the Package.
 
-&ldquo;Package&rdquo; means the collection of files distributed by the
+“Package” means the collection of files distributed by the
 Copyright Holder, and derivatives of that collection and/or of
 those files. A given Package may consist of either the Standard
 Version, or a Modified Version.
 
-&ldquo;Distribute&rdquo; means providing a copy of the Package or making it
+“Distribute” means providing a copy of the Package or making it
 accessible to anyone else, or in the case of a company or
 organization, to others outside of your company or organization.
 
-&ldquo;Distributor Fee&rdquo; means any fee that you charge for Distributing
+“Distributor Fee” means any fee that you charge for Distributing
 this Package or providing support for this Package to another
 party.  It does not mean licensing fees.
 
-&ldquo;Standard Version&rdquo; refers to the Package if it has not been
+“Standard Version” refers to the Package if it has not been
 modified, or has been modified only in ways explicitly requested
 by the Copyright Holder.
 
-&ldquo;Modified Version&rdquo; means the Package, if it has been changed, and
+“Modified Version” means the Package, if it has been changed, and
 such changes were not explicitly requested by the Copyright
 Holder. 
 
-&ldquo;Original License&rdquo; means this Artistic License as Distributed with
+“Original License” means this Artistic License as Distributed with
 the Standard Version of the Package, in its current version or as
 it may be modified by The Perl Foundation in the future.
 
-&ldquo;Source&rdquo; form means the source code, documentation source, and
+“Source” form means the source code, documentation source, and
 configuration files for the Package.
 
-&ldquo;Compiled&rdquo; form means the compiled bytecode, object code, binary,
+“Compiled” form means the compiled bytecode, object code, binary,
 or any other form resulting from mechanical transformation or
 translation of the Source form.
 
