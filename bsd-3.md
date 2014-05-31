@@ -1,8 +1,8 @@
 Modified BSD License
 ====================
 
-Copyright © `<year>`, `<copyright holder>`  
-All rights reserved.
+_Copyright © `<year>`, `<copyright holder>`_  
+_All rights reserved._
 
 Redistribution and use in source and binary forms, with or without
 modification, are permitted provided that the following conditions are met:

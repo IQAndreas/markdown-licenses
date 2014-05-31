@@ -1,10 +1,9 @@
 GNU General Public License
 ==========================
 
-Version 2, June 1991
-
-Copyright © 1989, 1991 Free Software Foundation, Inc.,
-51 Franklin Street, Fifth Floor, Boston, MA 02110-1301 USA
+_Version 2, June 1991_  
+_Copyright © 1989, 1991 Free Software Foundation, Inc.,_  
+_51 Franklin Street, Fifth Floor, Boston, MA 02110-1301 USA_
 
 Everyone is permitted to copy and distribute verbatim copies
 of this license document, but changing it is not allowed.
@@ -39,8 +38,8 @@ you have.  You must make sure that they, too, receive or can get the
 source code.  And you must show them these terms so they know their
 rights.
 
-We protect your rights with two steps: (1) copyright the software, and
-(2) offer you this license which gives you legal permission to copy,
+We protect your rights with two steps: **(1)** copyright the software, and
+**(2)** offer you this license which gives you legal permission to copy,
 distribute and/or modify the software.
 
 Also, for each author's protection and ours, we want to make certain

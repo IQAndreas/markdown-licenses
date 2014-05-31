@@ -1,10 +1,10 @@
 GNU Lesser General Public License
 =================================
 
-Version 2.1, February 1999
+_Version 2.1, February 1999_  
+_Copyright © 1991, 1999 Free Software Foundation, Inc._  
+_51 Franklin Street, Fifth Floor, Boston, MA  02110-1301  USA_
 
-Copyright © 1991, 1999 Free Software Foundation, Inc.
-51 Franklin Street, Fifth Floor, Boston, MA  02110-1301  USA
 Everyone is permitted to copy and distribute verbatim copies
 of this license document, but changing it is not allowed.
 
@@ -47,8 +47,8 @@ complete object files to the recipients, so that they can relink them
 with the library after making changes to the library and recompiling
 it.  And you must show them these terms so they know their rights.
 
-We protect your rights with a two-step method: (1) we copyright the
-library, and (2) we offer you this license, which gives you legal
+We protect your rights with a two-step method: **(1)** we copyright the
+library, and **(2)** we offer you this license, which gives you legal
 permission to copy, distribute and/or modify the library.
 
 To protect each distributor, we want to make it very clear that
@@ -447,7 +447,7 @@ FAILURE OF THE LIBRARY TO OPERATE WITH ANY OTHER SOFTWARE), EVEN IF
 SUCH HOLDER OR OTHER PARTY HAS BEEN ADVISED OF THE POSSIBILITY OF SUCH
 DAMAGES.
 
-END OF TERMS AND CONDITIONS
+_END OF TERMS AND CONDITIONS_
 
 ### How to Apply These Terms to Your New Libraries
 
@@ -485,10 +485,10 @@ You should also get your employer (if you work as a programmer) or your
 school, if any, to sign a “copyright disclaimer” for the library, if
 necessary.  Here is a sample; alter the names:
 
-  Yoyodyne, Inc., hereby disclaims all copyright interest in the
-  library `Frob' (a library for tweaking knobs) written by James Random Hacker.
+    Yoyodyne, Inc., hereby disclaims all copyright interest in the
+    library `Frob' (a library for tweaking knobs) written by James Random Hacker.
 
-  <signature of Ty Coon>, 1 April 1990
-  Ty Coon, President of Vice
+    <signature of Ty Coon>, 1 April 1990
+    Ty Coon, President of Vice
 
 That's all there is to it!

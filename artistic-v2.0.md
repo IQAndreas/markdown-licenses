@@ -1,7 +1,7 @@
 The Artistic License 2.0
 ========================
 
-Copyright © 2000-2006, The Perl Foundation.
+_Copyright © 2000-2006, The Perl Foundation._
 
 Everyone is permitted to copy and distribute verbatim copies
 of this license document, but changing it is not allowed.
