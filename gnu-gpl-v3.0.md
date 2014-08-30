@@ -1,4 +1,4 @@
-GNU General Public License
+GNU GENERAL PUBLIC LICENSE
 ==========================
 
 _Version 3, 29 June 2007_  
