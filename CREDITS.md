@@ -28,3 +28,4 @@
 * [Jonathan Robson](https://github.com/jnrbsn) - Converted GPLv3 to Markdown: [GitHub: jnrbsn/GPL.md](https://gist.github.com/jnrbsn/708961)
 * [J2897](https://github.com/J2897) - Minor fixes to GPLv3 formatting: [GitHub: J2897/TOR_Updater/LICENSE.md](https://github.com/J2897/TOR_Updater/blob/master/LICENSE.md)
 * [Yoshiki Shibukawa (shibukawa)](https://github.com/shibukawa) - The Unlicense (unlicense.md)
+* [Tim Joosten](https://github.com/Tjoosten) - The wtfpl license (wtfpl.md)
