@@ -11,6 +11,7 @@
  * **Modified BSD License (BSD 3-clause)**  &lt;<http://opensource.org/licenses/BSD-3-Clause>&gt;
  * **Simplified BSD License (BSD 2-clause)**  &lt;<http://opensource.org/licenses/BSD-2-Clause>&gt;
  * **The Unlicense (Public Domain)** &lt;<http://unlicense.org/>&gt;
+ * **Microsoft Public License (MS-PL)** &lt;<http://opensource.org/licenses/MS-PL>&gt;
 
 #### GNU Licenses
 
@@ -28,3 +29,4 @@
 * [Jonathan Robson](https://github.com/jnrbsn) - Converted GPLv3 to Markdown: [GitHub: jnrbsn/GPL.md](https://gist.github.com/jnrbsn/708961)
 * [J2897](https://github.com/J2897) - Minor fixes to GPLv3 formatting: [GitHub: J2897/TOR_Updater/LICENSE.md](https://github.com/J2897/TOR_Updater/blob/master/LICENSE.md)
 * [Yoshiki Shibukawa (shibukawa)](https://github.com/shibukawa) - The Unlicense (unlicense.md)
+* [Mattias Karlsson (devlead)](https://github.com/devlead) - Converted MS-PL to Markdown (ms-pl-v1.0.md)
