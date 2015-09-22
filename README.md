@@ -21,6 +21,11 @@ Some licenses have lines like this one found in _GNU GPL v3_:
 
 I'm no legal expert, however, considering that GNU provides [a list of their licenses in various formats](http://www.gnu.org/licenses/#GPL), I would assume that so long as the original **wording** remains intact, modification to the formatting (within reason) is allowed.
 
+### Text restyling warning
+
+Some of origin licenses uses dots after headers and not always uses new lines. This project not reformats them but also tries to introduce some styling improvements.
+If you need licenses texts identical to origins you need to do extra work by diffing this reformatted versions with original ones.
+
 ### In the event of a fire
 
 If there is any inconsistency between the markdown formatted license and the license it represents,
