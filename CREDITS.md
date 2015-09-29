@@ -11,6 +11,9 @@
  * **Modified BSD License (BSD 3-clause)**  &lt;<http://opensource.org/licenses/BSD-3-Clause>&gt;
  * **Simplified BSD License (BSD 2-clause)**  &lt;<http://opensource.org/licenses/BSD-2-Clause>&gt;
  * **The Unlicense (Public Domain)** &lt;<http://unlicense.org/>&gt;
+&lt;<http://opensource.org/licenses/BSD-2-Clause>&gt;
+ * **Open Database License (ODbL) v1.0** &lt;<http://opendatacommons.org/licenses/odbl/>&gt;
+  * **Creative Commons Attribution-ShareAlike (CC-BY-SA) v3.0** &lt;<http://creativecommons.org/licenses/by-sa/3.0/>&gt;
 
 #### GNU Licenses
 
@@ -28,3 +31,4 @@
 * [Jonathan Robson](https://github.com/jnrbsn) - Converted GPLv3 to Markdown: [GitHub: jnrbsn/GPL.md](https://gist.github.com/jnrbsn/708961)
 * [J2897](https://github.com/J2897) - Minor fixes to GPLv3 formatting: [GitHub: J2897/TOR_Updater/LICENSE.md](https://github.com/J2897/TOR_Updater/blob/master/LICENSE.md)
 * [Yoshiki Shibukawa (shibukawa)](https://github.com/shibukawa) - The Unlicense (unlicense.md)
+* [Markus Mayr (ScubbX)](https://github.com/ScubbX) - Added OpenDatabaseLicense v1.0 & CreativeCommons Attribution-ShareAlike 3.0
