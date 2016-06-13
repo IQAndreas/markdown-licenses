@@ -4,9 +4,10 @@ University of Illinois/NCSA Open Source License
 Copyright (c) `<YEAR>` `<OWNER ORGANIZATION NAME>`. All rights reserved.
 
 
-Developed by: `<NAME OF DEVELOPMENT GROUP>`
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;`<NAME OF INSTITUTION>`
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;`<URL FOR DEVELOPMENT GROUP/INSTITUTION>`
+Developed by:<br>
+`<NAME OF DEVELOPMENT GROUP>`<br>
+`<NAME OF INSTITUTION>`<br>
+`<URL FOR DEVELOPMENT GROUP/INSTITUTION>`
 
 Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal with the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:
 
