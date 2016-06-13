@@ -11,6 +11,7 @@
  * **Modified BSD License (BSD 3-clause)**  &lt;<http://opensource.org/licenses/BSD-3-Clause>&gt;
  * **Simplified BSD License (BSD 2-clause)**  &lt;<http://opensource.org/licenses/BSD-2-Clause>&gt;
  * **The Unlicense (Public Domain)** &lt;<http://unlicense.org/>&gt;
+ * **University of Illinois/NCSA Open Source License (NCSA)** &lt;<https://opensource.org/licenses/NCSA>&gt;
 
 #### GNU Licenses
 
