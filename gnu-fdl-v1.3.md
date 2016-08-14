@@ -241,7 +241,7 @@ These titles must be distinct from any other section titles.
 
 You may add a section Entitled “Endorsements”, provided it contains
 nothing but endorsements of your Modified Version by various
-parties--for example, statements of peer review or that the text has
+parties—for example, statements of peer review or that the text has
 been approved by an organization as the authoritative definition of a
 standard.
 

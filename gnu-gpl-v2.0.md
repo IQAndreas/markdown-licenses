@@ -13,7 +13,7 @@ of this license document, but changing it is not allowed.
 The licenses for most software are designed to take away your
 freedom to share and change it.  By contrast, the GNU General Public
 License is intended to guarantee your freedom to share and change free
-software--to make sure the software is free for all its users.  This
+software—to make sure the software is free for all its users.  This
 General Public License applies to most of the Free Software
 Foundation's software and to any other program whose authors commit to
 using it.  (Some other Free Software Foundation software is covered by
@@ -317,7 +317,7 @@ when it starts in an interactive mode:
 The hypothetical commands `show w` and `show c` should show the appropriate
 parts of the General Public License.  Of course, the commands you use may
 be called something other than `show w` and `show c`; they could even be
-mouse-clicks or menu items--whatever suits your program.
+mouse-clicks or menu items—whatever suits your program.
 
 You should also get your employer (if you work as a programmer) or your
 school, if any, to sign a “copyright disclaimer” for the program, if
