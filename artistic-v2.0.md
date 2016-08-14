@@ -26,7 +26,7 @@ a different licensing arrangement.
 named in the copyright notice for the entire Package.
 
 “Contributor” means any party that has contributed code or other
-material to the Package, in accordance with the Copyright Holder's
+material to the Package, in accordance with the Copyright Holder’s
 procedures.
 
 “You” and “your” means any person who would like to copy,
@@ -189,8 +189,8 @@ date that such litigation is filed.
 
 **(14)**  **Disclaimer of Warranty:**
 
-THE PACKAGE IS PROVIDED BY THE COPYRIGHT HOLDER AND CONTRIBUTORS "AS
-IS' AND WITHOUT ANY EXPRESS OR IMPLIED WARRANTIES. THE IMPLIED
+THE PACKAGE IS PROVIDED BY THE COPYRIGHT HOLDER AND CONTRIBUTORS “AS
+IS” AND WITHOUT ANY EXPRESS OR IMPLIED WARRANTIES. THE IMPLIED
 WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, OR
 NON-INFRINGEMENT ARE DISCLAIMED TO THE EXTENT PERMITTED BY YOUR LOCAL
 LAW. UNLESS REQUIRED BY LAW, NO COPYRIGHT HOLDER OR CONTRIBUTOR WILL

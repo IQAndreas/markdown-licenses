@@ -49,7 +49,7 @@ modifications and/or translated into another language.
 
 A “Secondary Section” is a named appendix or a front-matter section of
 the Document that deals exclusively with the relationship of the
-publishers or authors of the Document to the Document's overall
+publishers or authors of the Document to the Document’s overall
 subject (or to related matters) and contains nothing that could fall
 directly within that overall subject.  (Thus, if the Document is in
 part a textbook of mathematics, a Secondary Section may not explain
@@ -99,7 +99,7 @@ The “Title Page” means, for a printed book, the title page itself,
 plus such following pages as are needed to hold, legibly, the material
 this License requires to appear in the title page.  For works in
 formats which do not have any title page as such, “Title Page” means
-the text near the most prominent appearance of the work's title,
+the text near the most prominent appearance of the work’s title,
 preceding the beginning of the body of the text.
 
 The “publisher” means any person or entity that distributes copies of
@@ -140,7 +140,7 @@ you may publicly display copies.
 
 If you publish printed copies (or copies in media that commonly have
 printed covers) of the Document, numbering more than 100, and the
-Document's license notice requires Cover Texts, you must enclose the
+Document’s license notice requires Cover Texts, you must enclose the
 copies in covers that carry, clearly and legibly, all these Cover
 Texts: Front-Cover Texts on the front cover, and Back-Cover Texts on
 the back cover.  Both covers must also clearly and legibly identify
@@ -203,7 +203,7 @@ adjacent to the other copyright notices.
 giving the public permission to use the Modified Version under the
 terms of this License, in the form shown in the Addendum below.
 * **G.** Preserve in that license notice the full lists of Invariant Sections
-and required Cover Texts given in the Document's license notice.
+and required Cover Texts given in the Document’s license notice.
 * **H.** Include an unaltered copy of this License.
 * **I.** Preserve the section Entitled “History”, Preserve its Title, and add
 to it an item stating at least the title, year, new authors, and
@@ -236,7 +236,7 @@ If the Modified Version includes new front-matter sections or
 appendices that qualify as Secondary Sections and contain no material
 copied from the Document, you may at your option designate some or all
 of these sections as invariant.  To do this, add their titles to the
-list of Invariant Sections in the Modified Version's license notice.
+list of Invariant Sections in the Modified Version’s license notice.
 These titles must be distinct from any other section titles.
 
 You may add a section Entitled “Endorsements”, provided it contains
@@ -307,14 +307,14 @@ A compilation of the Document or its derivatives with other separate
 and independent documents or works, in or on a volume of a storage or
 distribution medium, is called an “aggregate” if the copyright
 resulting from the compilation is not used to limit the legal rights
-of the compilation's users beyond what the individual works permit.
+of the compilation’s users beyond what the individual works permit.
 When the Document is included in an aggregate, this License does not
 apply to the other works in the aggregate which are not themselves
 derivative works of the Document.
 
 If the Cover Text requirement of section 3 is applicable to these
 copies of the Document, then if the Document is less than one half of
-the entire aggregate, the Document's Cover Texts may be placed on
+the entire aggregate, the Document’s Cover Texts may be placed on
 covers that bracket the Document within the aggregate, or the
 electronic equivalent of covers if the Document is in electronic form.
 Otherwise they must appear on printed covers that bracket the whole
@@ -387,7 +387,7 @@ Free Software Foundation.  If the Document does not specify a version
 number of this License, you may choose any version ever published (not
 as a draft) by the Free Software Foundation.  If the Document
 specifies that a proxy can decide which future versions of this
-License can be used, that proxy's public statement of acceptance of a
+License can be used, that proxy’s public statement of acceptance of a
 version permanently authorizes you to choose that version for the
 Document.
 

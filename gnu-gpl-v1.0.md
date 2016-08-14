@@ -14,7 +14,7 @@ The license agreements of most software companies try to keep users
 at the mercy of those companies.  By contrast, our General Public
 License is intended to guarantee your freedom to share and change free
 software--to make sure the software is free for all its users.  The
-General Public License applies to the Free Software Foundation's
+General Public License applies to the Free Software Foundation’s
 software and to any other program whose authors commit to using it.
 You can use it for your programs, too.
 
@@ -39,12 +39,12 @@ We protect your rights with two steps: **(1)** copyright the software, and
 **(2)** offer you this license which gives you legal permission to copy,
 distribute and/or modify the software.
 
-Also, for each author's protection and ours, we want to make certain
+Also, for each author’s protection and ours, we want to make certain
 that everyone understands that there is no warranty for this free
 software.  If the software is modified by someone else and passed on, we
 want its recipients to know that what they have is not the original, so
 that any problems introduced by others will not reflect on the original
-authors' reputations.
+authors’ reputations.
 
 The precise terms and conditions for copying, distribution and
 modification follow.
@@ -59,7 +59,7 @@ on the Program” means either the Program or any work containing the
 Program or a portion of it, either verbatim or with modifications.  Each
 licensee is addressed as “you”.
 
-**1.** You may copy and distribute verbatim copies of the Program's source
+**1.** You may copy and distribute verbatim copies of the Program’s source
 code as you receive it, in any medium, provided that you conspicuously and
 appropriately publish on each copy an appropriate copyright notice and
 disclaimer of warranty; keep intact all the notices that refer to this
@@ -138,7 +138,7 @@ and all its terms and conditions.
 Program), the recipient automatically receives a license from the original
 licensor to copy, distribute or modify the Program subject to these
 terms and conditions.  You may not impose any further restrictions on the
-recipients' exercise of the rights granted herein.
+recipients’ exercise of the rights granted herein.
 
 **7.** The Free Software Foundation may publish revised and/or new versions
 of the General Public License from time to time.  Such new versions will
@@ -241,4 +241,4 @@ necessary.  Here a sample; alter the names:
     <signature of Ty Coon>, 1 April 1989
     Ty Coon, President of Vice
 
-That's all there is to it!
+That’s all there is to it!

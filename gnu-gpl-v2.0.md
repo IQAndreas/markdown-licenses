@@ -15,7 +15,7 @@ freedom to share and change it.  By contrast, the GNU General Public
 License is intended to guarantee your freedom to share and change free
 software--to make sure the software is free for all its users.  This
 General Public License applies to most of the Free Software
-Foundation's software and to any other program whose authors commit to
+Foundation’s software and to any other program whose authors commit to
 using it.  (Some other Free Software Foundation software is covered by
 the GNU Lesser General Public License instead.)  You can apply it to
 your programs, too.
@@ -42,18 +42,18 @@ We protect your rights with two steps: **(1)** copyright the software, and
 **(2)** offer you this license which gives you legal permission to copy,
 distribute and/or modify the software.
 
-Also, for each author's protection and ours, we want to make certain
+Also, for each author’s protection and ours, we want to make certain
 that everyone understands that there is no warranty for this free
 software.  If the software is modified by someone else and passed on, we
 want its recipients to know that what they have is not the original, so
 that any problems introduced by others will not reflect on the original
-authors' reputations.
+authors’ reputations.
 
 Finally, any free program is threatened constantly by software
 patents.  We wish to avoid the danger that redistributors of a free
 program will individually obtain patent licenses, in effect making the
 program proprietary.  To prevent this, we have made it clear that any
-patent must be licensed for everyone's free use or not licensed at all.
+patent must be licensed for everyone’s free use or not licensed at all.
 
 The precise terms and conditions for copying, distribution and
 modification follow.
@@ -77,7 +77,7 @@ is covered only if its contents constitute a work based on the
 Program (independent of having been made by running the Program).
 Whether that is true depends on what the Program does.
 
-**1.** You may copy and distribute verbatim copies of the Program's
+**1.** You may copy and distribute verbatim copies of the Program’s
 source code as you receive it, in any medium, provided that you
 conspicuously and appropriately publish on each copy an appropriate
 copyright notice and disclaimer of warranty; keep intact all the
@@ -187,7 +187,7 @@ the Program or works based on it.
 Program), the recipient automatically receives a license from the
 original licensor to copy, distribute or modify the Program subject to
 these terms and conditions.  You may not impose any further
-restrictions on the recipients' exercise of the rights granted herein.
+restrictions on the recipients’ exercise of the rights granted herein.
 You are not responsible for enforcing compliance by third parties to
 this License.
 

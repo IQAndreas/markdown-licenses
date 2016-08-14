@@ -107,7 +107,7 @@ manner specified by section 6 of the GNU GPL for conveying
 Corresponding Source.
     - **1)** Use a suitable shared library mechanism for linking with the
 Library.  A suitable mechanism is one that **(a)** uses at run time
-a copy of the Library already present on the user's computer
+a copy of the Library already present on the user’s computer
 system, and **(b)** will operate properly with a modified version
 of the Library that is interface-compatible with the Linked
 Version.
@@ -158,6 +158,6 @@ General Public License ever published by the Free Software Foundation.
 
 If the Library as you received it specifies that a proxy can decide
 whether future versions of the GNU Lesser General Public License shall
-apply, that proxy's public statement of acceptance of any version is
+apply, that proxy’s public statement of acceptance of any version is
 permanent authorization for you to choose that version for the
 Library.
