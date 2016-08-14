@@ -113,7 +113,7 @@ Contributor:
 
 * **(a)** for any code that a Contributor has removed from Covered Software;
     or
-* **(b)** for infringements caused by: **(i)** Your and any other third party's
+* **(b)** for infringements caused by: **(i)** Your and any other third party’s
     modifications of Covered Software, or **(ii)** the combination of its
     Contributions with other software (except as part of its Contributor
     Version); or
@@ -158,7 +158,7 @@ Modifications that You create or to which You contribute, must be under
 the terms of this License. You must inform recipients that the Source
 Code Form of the Covered Software is governed by the terms of this
 License, and how they can obtain a copy of this License. You may not
-attempt to alter or restrict the recipients' rights in the Source Code
+attempt to alter or restrict the recipients’ rights in the Source Code
 Form.
 
 #### 3.2. Distribution of Executable Form
@@ -279,7 +279,7 @@ prior to termination shall survive termination.
 > and all other commercial damages or losses, even if such party
 > shall have been informed of the possibility of such damages. This
 > limitation of liability shall not apply to liability for death or
-> personal injury resulting from such party's negligence to the
+> personal injury resulting from such party’s negligence to the
 > extent applicable law prohibits such limitation. Some
 > jurisdictions do not allow the exclusion or limitation of
 > incidental or consequential damages, so this exclusion and
@@ -292,7 +292,7 @@ Any litigation relating to this License may be brought only in the
 courts of a jurisdiction where the defendant maintains its principal
 place of business and such litigation shall be governed by laws of that
 jurisdiction, without reference to its conflict-of-law provisions.
-Nothing in this Section shall prevent a party's ability to bring
+Nothing in this Section shall prevent a party’s ability to bring
 cross-claims or counter-claims.
 
 

@@ -55,7 +55,7 @@ To protect each distributor, we want to make it very clear that
 there is no warranty for the free library.  Also, if the library is
 modified by someone else and passed on, the recipients should know
 that what they have is not the original version, so that the original
-author's reputation will not be affected by problems that might be
+author’s reputation will not be affected by problems that might be
 introduced by others.
 
 Finally, software patents pose a constant threat to the existence of
@@ -81,7 +81,7 @@ Public License permits more lax criteria for linking other code with
 the library.
 
 We call this license the “Lesser” General Public License because it
-does Less to protect the user's freedom than the ordinary General
+does Less to protect the user’s freedom than the ordinary General
 Public License.  It also provides other free software developers Less
 of an advantage over competing non-free programs.  These disadvantages
 are the reason we use the ordinary General Public License for many
@@ -104,7 +104,7 @@ operating system, as well as its variant, the GNU/Linux operating
 system.
 
 Although the Lesser General Public License is Less protective of the
-users' freedom, it does ensure that the user of a program that is
+users’ freedom, it does ensure that the user of a program that is
 linked with the Library has the freedom and the wherewithal to run
 that program using a modified version of the Library.
 
@@ -148,7 +148,7 @@ on the Library (independent of the use of the Library in a tool for
 writing it).  Whether that is true depends on what the Library does
 and what the program that uses the Library does.
 
-**1.** You may copy and distribute verbatim copies of the Library's
+**1.** You may copy and distribute verbatim copies of the Library’s
 complete source code as you receive it, in any medium, provided that
 you conspicuously and appropriately publish on each copy an
 appropriate copyright notice and disclaimer of warranty; keep intact
@@ -269,7 +269,7 @@ whether or not they are linked directly with the Library itself.
 link a “work that uses the Library” with the Library to produce a
 work containing portions of the Library, and distribute that work
 under terms of your choice, provided that the terms permit
-modification of the work for the customer's own use and reverse
+modification of the work for the customer’s own use and reverse
 engineering for debugging such modifications.
 
 You must give prominent notice with each copy of the work that the
@@ -293,7 +293,7 @@ Library will not necessarily be able to recompile the application
 to use the modified definitions.)
 * **b)** Use a suitable shared library mechanism for linking with the
 Library.  A suitable mechanism is one that (1) uses at run time a
-copy of the library already present on the user's computer system,
+copy of the library already present on the user’s computer system,
 rather than copying library functions into the executable, and (2)
 will operate properly with a modified version of the library, if
 the user installs one, as long as the modified version is
@@ -359,7 +359,7 @@ the Library or works based on it.
 Library), the recipient automatically receives a license from the
 original licensor to copy, distribute, link with or modify the Library
 subject to these terms and conditions.  You may not impose any further
-restrictions on the recipients' exercise of the rights granted herein.
+restrictions on the recipients’ exercise of the rights granted herein.
 You are not responsible for enforcing compliance by third parties with
 this License.
 
@@ -491,4 +491,4 @@ necessary.  Here is a sample; alter the names:
     <signature of Ty Coon>, 1 April 1990
     Ty Coon, President of Vice
 
-That's all there is to it!
+That’s all there is to it!
