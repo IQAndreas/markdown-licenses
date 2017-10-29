@@ -11,7 +11,7 @@
  * **Modified BSD License (BSD 3-clause)**  &lt;<http://opensource.org/licenses/BSD-3-Clause>&gt;
  * **Simplified BSD License (BSD 2-clause)**  &lt;<http://opensource.org/licenses/BSD-2-Clause>&gt;
  * **The Unlicense (Public Domain)** &lt;<http://unlicense.org/>&gt;
-
+---
 #### GNU Licenses
 
  * **GNU General Public License (GPL) v3.0**  &lt;<http://www.gnu.org/licenses/gpl-3.0.txt>&gt;
