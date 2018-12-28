@@ -11,6 +11,7 @@
  * **Modified BSD License (BSD 3-clause)**  &lt;<http://opensource.org/licenses/BSD-3-Clause>&gt;
  * **Simplified BSD License (BSD 2-clause)**  &lt;<http://opensource.org/licenses/BSD-2-Clause>&gt;
  * **The Unlicense (Public Domain)** &lt;<http://unlicense.org/>&gt;
+ * **COMMON DEVELOPMENT AND DISTRIBUTION LICENSE (CDDL) Version 1.0** &lt;<https://repository.jboss.org/licenses/cddl.txt>&gt;
 
 #### GNU Licenses
 
