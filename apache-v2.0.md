@@ -171,12 +171,15 @@ _END OF TERMS AND CONDITIONS_
 
 ### APPENDIX: How to apply the Apache License to your work
 
-To apply the Apache License to your work, attach the following boilerplate
-notice, with the fields enclosed by brackets `[]` replaced with your own
-identifying information. (Don't include the brackets!) The text should be
-enclosed in the appropriate comment syntax for the file format. We also
-recommend that a file or class name and description of purpose be included on
-the same “printed page” as the copyright notice for easier identification within
+Include a copy of the Apache License, typically in a file called LICENSE, 
+in your work, and consider also including a NOTICE file that references the License.
+
+To apply the Apache License to specific files in your work, attach the following boilerplate 
+declaration, replacing the fields enclosed by brackets `[]` with your own 
+identifying information. (Don't include the brackets!) Enclose the text 
+in the appropriate comment syntax for the file format. We also 
+recommend that you include a file or class name and description of purpose on 
+the same "printed page" as the copyright notice for easier identification within 
 third-party archives.
 
     Copyright [yyyy] [name of copyright owner]
