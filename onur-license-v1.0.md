@@ -1,0 +1,7 @@
+## Attribution onur_dev License
+
+1. Feel free to take inspiration from this code.
+2. Avoid directly copying it, please.
+3. Crediting the author is appreciated.
+
+No complicated licensing. Be kind and help others learn.
