@@ -426,15 +426,15 @@ and reuse of software generally.
 
 ### NO WARRANTY
 
-**15.** BECAUSE THE LIBRARY IS LICENSED FREE OF CHARGE, THERE IS NO
-WARRANTY FOR THE LIBRARY, TO THE EXTENT PERMITTED BY APPLICABLE LAW.
-EXCEPT WHEN OTHERWISE STATED IN WRITING THE COPYRIGHT HOLDERS AND/OR
-OTHER PARTIES PROVIDE THE LIBRARY “AS IS” WITHOUT WARRANTY OF ANY
-KIND, EITHER EXPRESSED OR IMPLIED, INCLUDING, BUT NOT LIMITED TO, THE
-IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR
-PURPOSE.  THE ENTIRE RISK AS TO THE QUALITY AND PERFORMANCE OF THE
-LIBRARY IS WITH YOU.  SHOULD THE LIBRARY PROVE DEFECTIVE, YOU ASSUME
-THE COST OF ALL NECESSARY SERVICING, REPAIR OR CORRECTION.
+**15.** ***because the library is licensed free of charge, there is no
+warranty for the library, to the extent permitted by applicable law.
+except when otherwise stated in writing the copyright holders and/or
+other parties provide the library “as is” without warranty of any
+kind, either expressed or implied, including, but not limited to, the
+implied warranties of merchantability and fitness for a particular
+purpose.  the entire risk as to the quality and performance of the
+library is with you.  should the library prove defective, you assume
+the cost of all necessary servicing, repair or correction.***
 
 **16.** IN NO EVENT UNLESS REQUIRED BY APPLICABLE LAW OR AGREED TO IN
 WRITING WILL ANY COPYRIGHT HOLDER, OR ANY OTHER PARTY WHO MAY MODIFY

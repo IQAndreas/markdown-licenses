@@ -189,11 +189,11 @@ date that such litigation is filed.
 
 **(14)**  **Disclaimer of Warranty:**
 
-THE PACKAGE IS PROVIDED BY THE COPYRIGHT HOLDER AND CONTRIBUTORS "AS
-IS' AND WITHOUT ANY EXPRESS OR IMPLIED WARRANTIES. THE IMPLIED
-WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, OR
-NON-INFRINGEMENT ARE DISCLAIMED TO THE EXTENT PERMITTED BY YOUR LOCAL
-LAW. UNLESS REQUIRED BY LAW, NO COPYRIGHT HOLDER OR CONTRIBUTOR WILL
-BE LIABLE FOR ANY DIRECT, INDIRECT, INCIDENTAL, OR CONSEQUENTIAL
-DAMAGES ARISING IN ANY WAY OUT OF THE USE OF THE PACKAGE, EVEN IF
-ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
+***the package is provided by the copyright holder and contributors "as
+is' and without any express or implied warranties. the implied
+warranties of merchantability, fitness for a particular purpose, or
+non-infringement are disclaimed to the extent permitted by your local
+law. unless required by law, no copyright holder or contributor will
+be liable for any direct, indirect, incidental, or consequential
+damages arising in any way out of the use of the package, even if
+advised of the possibility of such damage.***
